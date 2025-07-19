@@ -90,18 +90,11 @@ This app sends reminders to a Teams channel using a webhook.
 ```python
 TEAMS_WEBHOOK_URL = "https://outlook.office.com/webhook/your-webhook-url"
 ```
-
----
-
-## 📸 Screenshots
-
-*(Add screenshots here if you want!)*
-
 ---
 
 ## 🧡 Credits
 
-Developed by \[Your Name].
+Developed by \PriyaSharma.
 Made with Python, Tkinter & a lot of 💻 + ☕.
 
 ---
